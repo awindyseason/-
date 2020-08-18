@@ -54,7 +54,9 @@
 		D46DF3CB24EBC56000AD1EA0 /* StudyUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = StudyUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		D46DF3CF24EBC56000AD1EA0 /* StudyUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = StudyUITests.m; sourceTree = "<group>"; };
 		D46DF3D124EBC56000AD1EA0 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		D46DF3DD24EBC57100AD1EA0 /* Header.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Header.h; sourceTree = "<group>"; };
+		D46DF3DD24EBC57100AD1EA0 /* 请求证书问题.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "请求证书问题.h"; sourceTree = "<group>"; };
+		D46DF3DE24EBC9CF00AD1EA0 /* 网址.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "网址.h"; sourceTree = "<group>"; };
+		D46DF3DF24EBCA1200AD1EA0 /* 问题备忘.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "问题备忘.h"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -111,7 +113,9 @@
 				D46DF3AC24EBC55F00AD1EA0 /* SceneDelegate.m */,
 				D46DF3AE24EBC55F00AD1EA0 /* ViewController.h */,
 				D46DF3AF24EBC55F00AD1EA0 /* ViewController.m */,
-				D46DF3DD24EBC57100AD1EA0 /* Header.h */,
+				D46DF3DD24EBC57100AD1EA0 /* 请求证书问题.h */,
+				D46DF3DE24EBC9CF00AD1EA0 /* 网址.h */,
+				D46DF3DF24EBCA1200AD1EA0 /* 问题备忘.h */,
 				D46DF3B124EBC55F00AD1EA0 /* Main.storyboard */,
 				D46DF3B424EBC56000AD1EA0 /* Assets.xcassets */,
 				D46DF3B624EBC56000AD1EA0 /* LaunchScreen.storyboard */,
